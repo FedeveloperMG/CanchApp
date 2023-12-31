@@ -4,9 +4,9 @@ CanchApp es una app móvil orientada a crear un espacio donde los usuarios regis
 
 Consta de una interface simple e intuitiva donde el usuario pueda obtener su reserva en minutos.
 
-## Funcionamiento de la canchApp
+## CanchApp permite:
 
-- Un sistema de registro para usuarios cuyo rol será de tipo cliente orientado a poder realizar las reservas en un complejo deseado.
+- Un sistema de registro para usuarios cuyo rol será de tipo cliente orientado a poder realizar las reservas en el complejo deseado.
 - Un sistema de registro para complejos cuyo rol será de tipo proveedor orientado a gestionar los turnos disponibles y reservas realizadas. 
 - Permite a los proveedores agregar nuevos horarios disponibles, eliminar turnos, realizar reservas de tipo manual para clientes no registrados y anular reservas realizadas.
 
