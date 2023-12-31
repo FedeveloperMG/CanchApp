@@ -25,16 +25,16 @@ Uso de FireBase para persistencia de datos
 https://canchapp.netlify.app/
 
 ## Vista principal - Sección LogIn
-![image](https://i.ibb.co/P52R3cB/index.png)
+![image](https://i.ibb.co/CnWqfWD/index.png)
 
 ## Vista cliente - Sección Reservas
-![image](https://i.ibb.co/zSzCf7W/normal-User.png)
+![image](https://i.ibb.co/ck1WqPL/normal-User.png)
 
 ## Vista cliente - Sección Turnos disponibles
-![image](https://i.ibb.co/Xp8SZQq/turnos.png)
+![image](https://i.ibb.co/R7BHXnL/turnos.png)
 
 ## Vista Proveedor - Sección Complejos
-![image](https://i.ibb.co/8rpCVgD/complejo.png)
+![image](https://i.ibb.co/7n5fFtJ/complejo.png)
 
 ### Autor
 
